@@ -1,0 +1,11 @@
+{
+  "name": "empire-membership",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.0",
+    "dotenv": "^16.4.0"
+  },
+  "scripts": {
+    "start": "node membership.js"
+  }
+}
